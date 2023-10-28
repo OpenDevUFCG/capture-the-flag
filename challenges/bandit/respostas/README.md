@@ -12,6 +12,7 @@ Comando: `cat 'spaces in this filename'`
 - ou: `cat spaces\ in\ this\ filename`
 > Dica: começe a escrever o nome do arquivo e dê _TAB_.
 > Ex.: cat spac`<TAB>`
+
 Chave: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 ### 3 -> 4
@@ -62,4 +63,5 @@ Comando:
 3. renomeie para que o arquivo tenha a extensão daquele tipo de arquivo
 4. vá descomprimindo/descompactando com `gzip`, `bzip2` e `tar`
 5. repita 2 a 4 até conseguir um arquivo texto ASCII
+
 Chave: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
